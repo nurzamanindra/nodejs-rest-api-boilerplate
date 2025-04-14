@@ -1,7 +1,7 @@
 
-# 🚀 Node.js + Express + MongoDB REST API Boilerplate
+# 🚀 Node.js + Express REST API Boilerplate
 
-A lightweight and simple boilerplate to kickstart your backend REST API development using **Node.js**, **Express**, and **MongoDB**.
+A lightweight and simple boilerplate to kickstart your backend REST API development using **Node.js** and **Express**.
 
 ---
 
@@ -9,7 +9,6 @@ A lightweight and simple boilerplate to kickstart your backend REST API developm
 
 - **Node.js**
 - **Express**
-- **MongoDB**
 - **dotenv**
 - **nodemon** (for development)
 
@@ -85,7 +84,6 @@ project-root/
 
 ## 📌 Notes
 
-- Make sure MongoDB is running or replace with your cloud MongoDB URI.
 - You can extend this boilerplate with middleware, error handling, authentication, etc.
 
 ---
