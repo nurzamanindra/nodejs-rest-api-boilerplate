@@ -19,14 +19,8 @@ A lightweight and simple boilerplate to kickstart your backend REST API developm
 ### 📁 Project Setup
 
 ```bash
-# Initialize project
-npm install
-
 # Install dependencies
-npm install express dotenv
-
-# Install dev dependencies
-npm install -D nodemon
+npm install
 ```
 
 ### 📄 Configuration
@@ -56,11 +50,11 @@ Make sure your `package.json` has the following script:
 
 ```json
 "scripts": {
-  "dev": "nodemon server.js"
+  "dev": "nodemon server"
 }
 ```
 
-Replace `server.js` with your actual entry point file if it's different.
+Replace `server` with your actual entry point file if it's different.
 
 ---
 
