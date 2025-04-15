@@ -20,7 +20,7 @@ A lightweight and simple boilerplate to kickstart your backend REST API developm
 
 ```bash
 # Initialize project
-npm init
+npm install
 
 # Install dependencies
 npm install express dotenv
